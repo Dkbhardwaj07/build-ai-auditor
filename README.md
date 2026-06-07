@@ -24,5 +24,5 @@ We utilize **Microsoft AutoGen** to orchestrate a team of specialized AI agents:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/build-ai-auditor.git](https://github.com/your-username/build-ai-auditor.git)
+   git clone [https://github.com/your-username/build-ai-auditor.git]( https://github.com/Dkbhardwaj07/build-ai-auditor.git)
    cd build-ai-auditor
