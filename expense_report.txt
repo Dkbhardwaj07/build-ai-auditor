@@ -1,0 +1,18 @@
+COMPANY EXPENSE CLAIM FORM
+--------------------------
+Employee Name: Sarah Jenkins
+Department: IT Operations
+Date of Submission: May 26, 2026
+
+EXPENSE DETAILS:
+1. Vendor: CloudHosting Pro Servers
+   Description: Emergency server scale-up for new project testing.
+   Amount: $8,500
+   Date Incurred: May 24, 2026
+
+2. Vendor: Starbucks
+   Description: Coffee for the team.
+   Amount: $45
+   Date Incurred: May 25, 2026
+
+Note: The server expense was verbal pre-approved by the CTO but no formal signature is attached.
